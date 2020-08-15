@@ -15,7 +15,12 @@ Este projeto requer **Python 3.7** e as seguintes bibliotecas Python instaladas:
 - [Matplotlib](http://matplotlib.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
 - [seaborn](https://seaborn.pydata.org/)
-
+- tweepy
+- json
+- os
+- re
+- scipy
+- datatime
 
 
 Você também precisará ter software instalado para rodar e executar um [iPython Notebook](http://ipython.org/notebook.html)
