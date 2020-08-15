@@ -6,6 +6,37 @@ O objetivo do projeto foi a análise de um conjunto de dados baseado nos arquivo
 O projeto foi subdividido em quatro etapas: coleta, avaliação, limpeza e análise. O resultado obtido por meio da análise foi a verificação de quais seriam as raças mais populares
 entre os usuários da rede, buscando constatar a relação da incidência das raças com os tweets e retweets, utilizando essas variáveis, como as mais relevantes para a produção da informação
 (raças mais populares).
+### Instalação
+
+Este projeto requer **Python 3.7** e as seguintes bibliotecas Python instaladas:
+
+- [NumPy](http://www.numpy.org/)
+- [Pandas](http://pandas.pydata.org/)
+- [Matplotlib](http://matplotlib.org/)
+- [scikit-learn](http://scikit-learn.org/stable/)
+- [seaborn](https://seaborn.pydata.org/)
+
+
+
+Você também precisará ter software instalado para rodar e executar um [iPython Notebook](http://ipython.org/notebook.html)
+
+### Código
+
+O código é fornecido no arquivo notebook `final_project_1.ipynb`. Você também precisará usar o o arquivo de dados `heart.csv` para executar o notebook. 
+
+### Execução
+
+Em um terminal ou janela de comando, navegue até o diretório raiz de projeto 'final_project_1.ipynb'/` (que contém este README) e execute os seguintes comandos:
+
+```bash
+ipython notebook final_project_1.ipynb
+```  
+ou
+```bash
+jupyter notebook final_project_1.ipynb
+```
+
+Isso abrirá o o software e arquivo de projeto iPython Notebook em seu navegador.
 
 ## Etapas
 
